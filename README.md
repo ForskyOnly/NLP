@@ -3,7 +3,14 @@
 
 ## Context du projet
 
-Le projet "Vision par ordinateur pour la Langue des Signes" consiste à développer un système capable de reconnaître et d'interpréter les gestes de la Langue des Signes à partir d'images ou de vidéos. En utilisant des algorithmes de détection de mouvement et des modèles d'apprentissage profond, notre solution permettra une reconnaissance en temps réel des signes, facilitant ainsi la communication entre les personnes sourdes et entendantes. Notre objectif est de favoriser l'inclusion et la compréhension mutuelle, en contribuant à un monde plus accessible pour tous.
+### Consignes
+
+Vous travaillez pour un psychologue qui conseille à ses patients d'écrire sur un journal intime numérique entre les séances. 
+Il aimerait que vous développiez pour lui un outil capable d'utiliser ces écrits pour l'aider dans son travail sans être obligé de lire chacun des textes.
+
+Ce projet fais partie de la premiére étape celle avant l'appli final crée avec django 
+voir si dessous poru étapes de ce projet
+
 
 
 
