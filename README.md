@@ -9,7 +9,7 @@ Vous travaillez pour un psychologue qui conseille à ses patients d'écrire sur 
 Il aimerait que vous développiez pour lui un outil capable d'utiliser ces écrits pour l'aider dans son travail sans être obligé de lire chacun des textes.
 
 Ce projet fais partie de la premiére étape celle avant l'appli final crée avec django 
-voir si dessous poru étapes de ce projet
+voir ci-dessous pour les étapes de ce projet
 
 
 
